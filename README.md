@@ -1,6 +1,6 @@
 # IP Site
 
-##Install
+## Install
 
 ```
 git clone https://github.com/erfanbanaei/IP-Site
